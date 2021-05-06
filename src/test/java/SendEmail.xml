@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="classes" thread-count="3">
+       <test name="Test">
+        <classes>
+            <class name="FifthMay.Double_Click" />
+            <class name="FifthMay.TestNG" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
